@@ -9,6 +9,6 @@ elif imc >= 18.5 and imc <=25:
 elif imc >= 25 and imc <= 30:
     print("voce esta em SOBREPESO")
 elif imc >= 30 and imc <= 40:
-    print("voce esta EM OBESIDADE")
+    print("voce esta EM OBESIDADEEEEE")
 else:
     print("Voce esta em OBESIDADE MORBIDA")
